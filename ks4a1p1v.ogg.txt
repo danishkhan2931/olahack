@@ -1,0 +1,60 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   OlaFriends/.gitignore
+#	new file:   OlaFriends/.idea/.name
+#	new file:   OlaFriends/.idea/compiler.xml
+#	new file:   OlaFriends/.idea/copyright/profiles_settings.xml
+#	new file:   OlaFriends/.idea/encodings.xml
+#	new file:   OlaFriends/.idea/gradle.xml
+#	new file:   OlaFriends/.idea/misc.xml
+#	new file:   OlaFriends/.idea/modules.xml
+#	new file:   OlaFriends/.idea/runConfigurations.xml
+#	new file:   OlaFriends/.idea/vcs.xml
+#	new file:   OlaFriends/OlaFriends.iml
+#	new file:   OlaFriends/app/.gitignore
+#	new file:   OlaFriends/app/app.iml
+#	new file:   OlaFriends/app/build.gradle
+#	new file:   OlaFriends/app/proguard-rules.pro
+#	new file:   OlaFriends/app/src/androidTest/java/com/ola/olafriends/ApplicationTest.java
+#	new file:   OlaFriends/app/src/main/AndroidManifest.xml
+#	new file:   OlaFriends/app/src/main/java/com/ola/olafriends/AppConstants.java
+#	new file:   OlaFriends/app/src/main/java/com/ola/olafriends/AvailableCab.java
+#	new file:   OlaFriends/app/src/main/java/com/ola/olafriends/MainActivity.java
+#	new file:   OlaFriends/app/src/main/java/com/ola/olafriends/MainActivityFragment.java
+#	new file:   OlaFriends/app/src/main/java/com/ola/olafriends/OlaFriendsApplication.java
+#	new file:   OlaFriends/app/src/main/java/com/ola/olafriends/SelectedActivity.java
+#	new file:   OlaFriends/app/src/main/java/com/ola/olafriends/api/SplitwiseApi.java
+#	new file:   OlaFriends/app/src/main/java/com/ola/olafriends/communityuser.java
+#	new file:   OlaFriends/app/src/main/java/com/ola/olafriends/utils/Debug.java
+#	new file:   OlaFriends/app/src/main/java/com/ola/olafriends/utils/Utils.java
+#	new file:   OlaFriends/app/src/main/res/layout/activity_available_cab.xml
+#	new file:   OlaFriends/app/src/main/res/layout/activity_main.xml
+#	new file:   OlaFriends/app/src/main/res/layout/activity_selected.xml
+#	new file:   OlaFriends/app/src/main/res/layout/fragment_main.xml
+#	new file:   OlaFriends/app/src/main/res/layout/list_view_result.xml
+#	new file:   OlaFriends/app/src/main/res/layout/list_view_selectable.xml
+#	new file:   OlaFriends/app/src/main/res/menu/menu_available_cab.xml
+#	new file:   OlaFriends/app/src/main/res/menu/menu_main.xml
+#	new file:   OlaFriends/app/src/main/res/menu/menu_selected.xml
+#	new file:   OlaFriends/app/src/main/res/mipmap-hdpi/ic_launcher.png
+#	new file:   OlaFriends/app/src/main/res/mipmap-mdpi/ic_launcher.png
+#	new file:   OlaFriends/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+#	new file:   OlaFriends/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+#	new file:   OlaFriends/app/src/main/res/values-w820dp/dimens.xml
+#	new file:   OlaFriends/app/src/main/res/values/dimens.xml
+#	new file:   OlaFriends/app/src/main/res/values/strings.xml
+#	new file:   OlaFriends/app/src/main/res/values/styles.xml
+#	new file:   OlaFriends/build.gradle
+#	new file:   OlaFriends/gradle.properties
+#	new file:   OlaFriends/gradle/wrapper/gradle-wrapper.jar
+#	new file:   OlaFriends/gradle/wrapper/gradle-wrapper.properties
+#	new file:   OlaFriends/gradlew
+#	new file:   OlaFriends/gradlew.bat
+#	new file:   OlaFriends/settings.gradle
+#
+
